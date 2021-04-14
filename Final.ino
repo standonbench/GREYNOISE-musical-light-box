@@ -1,4 +1,4 @@
-//6 grey shades --> 6 sounds (Blues Scals) maybe pentatonic -
+//6 grey shades --> 6 sounds (Blues Scale) 
 
 //DF PLAYER LIBRARY
 #include "Arduino.h"

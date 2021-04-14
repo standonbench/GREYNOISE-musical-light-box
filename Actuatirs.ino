@@ -1,3 +1,4 @@
+//Code for the DC motor that drives the strip through the light sensor
 int motorPin = 9;
 
 void setup() {
